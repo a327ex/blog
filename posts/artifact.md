@@ -7,9 +7,11 @@ Artifact has been out for about a month now and I've been playing it a lot. By n
 
 The main reason for writing this article is that Artifact is a game with a lot of sources of randomness and this makes it the perfect environment to exercise the mindset I went over in [this article](https://github.com/adnzzzzZ/blog/issues/38) about luck. And so that's what this article will talk about!
 
+If you already play Artifact you can skip to the [Luck](#luck) section.
+
 <br>
 
-## RNG sources
+# RNG sources
 
 Artifact has about 5 types of RNG sources that I can think about right now: hero placement and creep placement, arrows, item shop, and the effects of some specific heroes or cards. Let's go over them one by one.
 
@@ -175,7 +177,7 @@ Golden Ticket is the best item in my opinion, I really like running it whenever 
 
 <br>
 
-## Luck
+<h1 id="luck">Luck</h1>
 
 Now, with all that said about sources of randomness in the game, I can get to the meat of the article here. As hopefully I've explained above, the game has various sources of randomness that can be mitigated directly in various ways. For the things that can't be mitigated directly, you can usually set up your board in ways that will mitigate those things indirectly over time. This feels bad and counterintuitive for people in the wrong mindset but it's the way these games go. If the best play in one instance works 70% of the time, you still do it, even if 30% of the time it won't work, because it's the best play all things considered.
 
@@ -200,7 +202,7 @@ The solution to this is to slowly train yourself to not blame external factors l
 
 On a side note, this is the main role that I think games play in life. Unlike movies, games are active and because of this you can use them to change the patterns in your body or mind. In this case, learning to never blame luck in Artifact will train your body to never blame luck in general, which is a very good thing to do when you're trying to do anything in life, be it making a game, starting a business, getting a girlfriend, and so on. 
 
-In the end this is why I like Artifact, the main skill that it exercises is one of learning how to deal with luck, which is a fundamental skill in life that once mastered provides tremendous gain. On another side note, this is also how some types of games that we like now were created. In the old days simulation games were created to help generals train for battles, and the random elements in those games were derived from statistical analysis of what kinds of things would go wrong in real battlefields. This meant that the better generals got at playing the game, the better they got at dealing with all sorts of random unlucky events that can happen in a real battlefield. These morphed over time and became all sorts of game mechanics that games have today. But the history of certain game mechanics is a long topic, maybe for another article.
+In the end this is why I like Artifact, the main skill that it exercises is one of learning how to deal with luck, which is a fundamental skill in life that once mastered provides tremendous gain. On another side note, this is also how some types of games that we like now were created. In the old days simulation games were created to help generals train for battles, and the random elements in those games were derived from statistical analysis of what kinds of things would go wrong in real battlefields. This meant that the better generals got at playing the game, the better they got at dealing with all sorts of random unlucky events that can happen in a real battlefield. These morphed over time and became all sorts of game mechanics that games have today.
 
 >Armies lose battles when their generals are unable to adapt to the situation. 
 *— Legion Commander on maintaining poise*
