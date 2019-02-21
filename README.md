@@ -1,3 +1,4 @@
+#### 2019-02-21 [One Year Sales Data for BYTEPATH](https://github.com/SSYGEN/blog/issues/44)
 #### 2018-12-30 [Why I really like Artifact](https://github.com/SSYGEN/blog/issues/43)
 #### 2018-09-29 [The Indiepocalypse Isn't Real](https://github.com/SSYGEN/blog/issues/41)
 #### 2018-08-14 [Creators and Mechanists in Indie Gamedev](https://github.com/SSYGEN/blog/issues/40)
