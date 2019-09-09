@@ -1,4 +1,6 @@
+#### 2019-08-20 [Posting gamedev progress online](https://github.com/adnzzzzZ/blog/issues/52)
 #### 2019-08-17 [Kimetsu no Yaiba and Agreeableness](https://github.com/adnzzzzZ/blog/issues/50)
+#### 2019-07-14 [Psychedelics and Finishing Games](https://github.com/adnzzzzZ/blog/issues/51)
 #### 2019-05-06 [Timer and Tween Functions in Lua](https://github.com/adnzzzzZ/blog/issues/48)
 #### 2019-04-28 [Procedural Dungeon Generation #3](https://github.com/adonaac/blog/issues/47)
 #### 2019-04-07 [Accessibility and Challenge](https://github.com/SSYGEN/blog/issues/46)
