@@ -1,3 +1,4 @@
+#### 2019-09-11 [Neuroticism in Indie Gamedev](https://github.com/adnzzzzZ/blog/issues/53)
 #### 2019-08-20 [Posting gamedev progress online](https://github.com/adnzzzzZ/blog/issues/52)
 #### 2019-08-17 [Kimetsu no Yaiba and Agreeableness](https://github.com/adnzzzzZ/blog/issues/50)
 #### 2019-07-14 [Psychedelics and Finishing Games](https://github.com/adnzzzzZ/blog/issues/51)
