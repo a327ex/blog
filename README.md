@@ -1,3 +1,4 @@
+#### 2019-09-16 [Easy Modes](https://github.com/adnzzzzZ/blog/issues/54)
 #### 2019-09-11 [Neuroticism in Indie Gamedev](https://github.com/adnzzzzZ/blog/issues/53)
 #### 2019-08-20 [Posting gamedev progress online](https://github.com/adnzzzzZ/blog/issues/52)
 #### 2019-08-17 [Kimetsu no Yaiba and Agreeableness](https://github.com/adnzzzzZ/blog/issues/50)
