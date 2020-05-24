@@ -41,12 +41,3 @@
 #### 2014-08-16 [Behavior Trees #1](https://github.com/adonaac/blog/issues/3)
 #### 2014-01-07 [The Power of Lua and Mixins](https://github.com/adonaac/blog/issues/2)
 #### 2013-06-30 [Procedural Dungeon Generation #1](https://github.com/adonaac/blog/issues/1)
-
-<br>
-
-**tags explanations:**
-
-* **indie -** anything related to indie games/development when it comes to psychological/mental aspects
-* **opinion -** non-technical personal opinions on random subjects
-* **personality -** big five personality traits and how they apply to various situations (generally indiedev)
-* **programming -** anything related to coding practices, code aesthetics, programming itself
