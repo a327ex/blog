@@ -1,3 +1,4 @@
+#### 2020-05-30 [Cancellation-proof automated cyberchains](https://github.com/a327ex/blog/issues/57)
 #### 2020-05-20 [Making rxi's lite my main text editor](https://github.com/a327ex/blog/issues/56)
 #### 2019-09-16 [Easy Modes](https://github.com/adnzzzzZ/blog/issues/54)
 #### 2019-09-11 [Neuroticism in Indie Gamedev](https://github.com/adnzzzzZ/blog/issues/53)
