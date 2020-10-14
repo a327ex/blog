@@ -1,3 +1,4 @@
+#### 2020-10-14 [Personality Trait Instance Archive](https://github.com/a327ex/blog/issues/61)
 #### 2020-06-23 [Springs](https://github.com/a327ex/blog/issues/60)
 #### 2020-06-23 [Object Management](https://github.com/a327ex/blog/issues/59)
 #### 2020-06-23 [Personality-led irrational behavior during the coronavirus pandemic](https://github.com/a327ex/blog/issues/58)
