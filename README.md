@@ -1,3 +1,4 @@
+#### 2020-12-23 [New Programming Taxonomies](https://github.com/a327ex/blog/issues/63)
 #### 2020-10-24 [Arguments on why developers might want to prevent streamers from streaming their game](https://github.com/a327ex/blog/issues/62)
 #### 2020-10-14 [Personality Trait Instance Archive](https://github.com/a327ex/blog/issues/61)
 #### 2020-06-23 [Springs](https://github.com/a327ex/blog/issues/60)
