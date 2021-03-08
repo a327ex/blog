@@ -1,5 +1,9 @@
 # [a327ex.github.io](https://a327ex.github.io)
 
+#### 2021-02-02 [Why indiedevs shouldn't fear being cancelled](https://github.com/a327ex/blog/issues/70)
+#### 2021-01-22 [Thoughts on making small games](https://github.com/a327ex/blog/issues/69)
+#### 2021-01-16 [Why 1-based indexing is right for Lua](https://github.com/a327ex/blog/issues/68)
+#### 2021-01-15 [Game Ideas](https://github.com/a327ex/blog/issues/67)
 #### 2020-12-26 [Borders vs. No Borders](https://github.com/a327ex/blog/issues/66)
 #### 2020-12-23 [New Programming Taxonomies](https://github.com/a327ex/blog/issues/63)
 #### 2020-10-24 [Arguments on why developers might want to prevent streamers from streaming their game](https://github.com/a327ex/blog/issues/62)
